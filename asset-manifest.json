@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yawningStudioTools/static/css/main.f855e6bc.css",
+    "main.js": "/yawningStudioTools/static/js/main.599018b0.js",
+    "index.html": "/yawningStudioTools/index.html",
+    "main.f855e6bc.css.map": "/yawningStudioTools/static/css/main.f855e6bc.css.map",
+    "main.599018b0.js.map": "/yawningStudioTools/static/js/main.599018b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.599018b0.js"
+  ]
+}
