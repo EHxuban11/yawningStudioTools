@@ -1,6 +1,4 @@
+# To build the github page 
 
-
-
-# Pure frontend tools to inspire from
-Audio trimmer: https://audiotrimmer.com/
-Fade-in Instagram reel: https://yawningstudio.com/
+cd yawning-studio-tools-app
+npm run deploy
